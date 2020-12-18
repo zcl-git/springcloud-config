@@ -1,2 +1,5 @@
 config:
   info: main dev
+
+server:
+  port: 8888
